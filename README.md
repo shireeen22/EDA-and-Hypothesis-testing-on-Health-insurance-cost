@@ -1,0 +1,2 @@
+# EDA-and-Hypothesis-testing-on-Health-insurance-cost
+This project aims to analyze health insurance charges such as age, sex, BMI, number of children, smoking status, and region. Through statistical hypothesis testing, feature engineering, and advanced visualization techniques, I will try to uncover data patterns and test the statements or assumptions about the data through EDA and Hypothesis Testing.
